@@ -1,0 +1,162 @@
+html,
+body {
+  overflow-x: hidden;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.collapse {
+  font-size: 17px;
+}
+
+.logo {
+  text-decoration: none;
+  color: rgb(136, 136, 136);
+  font-size: 20px;
+}
+
+a {
+  color: rgb(76, 76, 76);
+}
+
+.menu {
+  display: flex;
+}
+
+.padding {
+  padding: 32px 24px;
+}
+
+.section1 {
+  background-color: rgb(219, 219, 219);
+}
+
+.heading {
+  font-size: 50px;
+  font-weight: 700;
+  padding-bottom: 15px;
+}
+
+button {
+  padding: 8px 0 8px 0;
+  color: white;
+  width: 87%;
+  background-color: rgb(76, 76, 76);
+  border: none;
+}
+
+.hero-content {
+  color: rgb(76, 76, 76);
+  margin: auto;
+  padding: 0 120px 0 50px;
+  justify-content: center;
+}
+
+.paragraph {
+  font-size: 25px;
+  padding-bottom: 15px;
+}
+
+div>h3 {
+  padding: 20px 0 10px 0;
+  font-size: 35px;
+  font-weight: 700;
+}
+
+.img2 {
+  padding-right: 30px;
+}
+
+.row>img {
+  width: 35%;
+  height: 35%;
+  margin: 13px;
+}
+
+.content {
+  margin: auto;
+  line-height: 1;
+
+}
+
+p:first-child {
+  font-weight: 600;
+  font-size: 30px;
+}
+
+p:nth-child(2) {
+  font-size: 18px;
+}
+
+.img-cont {
+  background-color: rgba(245, 245, 245, 0.793);
+  margin: 5px;
+}
+
+.img-cont:hover {
+  background-color: rgb(219, 219, 219);
+}
+
+.content2-right-side {
+  margin: auto;
+  padding-right: 30px;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+.section2 {
+  color: rgb(76, 76, 76);
+}
+
+.section3 {
+  background-color: rgb(219, 219, 219);
+  color: rgb(76, 76, 76);
+  padding: 10px 100px 30px 100px;
+}
+
+.section3>h3 {
+  text-align: center;
+}
+
+.content-3 {
+  background-color: white;
+  padding: 15px 30px 30px 30px;
+  height: 170px;
+  color: rgb(76, 76, 76);
+}
+
+.section3>.row {
+  padding: 13px;
+}
+
+.card:hover {
+  box-shadow: 10px 10px 20px rgb(110, 110, 110);
+}
+
+.section4>h3 {
+  text-align: center;
+  padding-top: 40px;
+}
+
+footer>p {
+  font-size: medium !important;
+  padding-left: 23px;
+}
+
+footer {
+  display: flex;
+}
+
+.footer-link {
+  padding-left: 970px;
+}
+
+.content4-right-side {
+  padding-right: 30px;
+}
