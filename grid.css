@@ -1,0 +1,102 @@
+div {
+  border: 1px solid black;
+  justify-content: center;
+  color: white;
+  font-size: 35px;
+}
+
+.rows{
+  height: 300px;  
+}
+
+.row{
+  text-align: center;      
+}
+
+.box-1{
+  background-color: blueviolet;
+}
+
+.box-2{
+  background-color: coral;
+}
+
+.box-3{
+  background-color: greenyellow;
+}
+
+.box-4{
+  background-color: olive;
+}
+
+.box-5{
+  background-color: orange;
+}
+
+.box-6{
+  background-color: violet;
+}
+
+.box-7{
+  height: 40%;
+  text-align: center;
+  background-color: aqua;
+}
+
+.box-8{
+  height: 60%;
+  background-color: blue;
+}
+
+.box-4{
+  background-color:darkgrey;
+}
+
+._3row > div{
+  height: 33.5%;
+}
+
+._2row > div{
+  height: 50%;
+}
+
+.box-9{
+  background-color: darksalmon;
+}
+
+.box-10{
+  background-color: deeppink;
+}
+
+.box-11{
+  background-color:gold;
+}
+
+.box-12{
+  background-color: olive;
+}
+
+.box-13{
+  background-color: brown;
+}
+
+.box-14{
+  background-color:teal;
+  width: 38.8%;
+}
+
+.box-15{
+  background-color:lightgreen;
+}
+
+.box-16{
+  background-color:orangered;
+}
+
+.box-17{
+  background-color:thistle;
+}
+
+#space{
+  width: 44.5%;
+}
